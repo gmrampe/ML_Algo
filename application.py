@@ -11,7 +11,7 @@ app=application
 scaler=pickle.load(open('C:\\Users\\rampe\\Desktop\\ML_algo\\ML_algo\\Model\\standardscaler.pkl','rb'))
 model = pickle.load(open('C:\\Users\\rampe\\Desktop\\ML_algo\\ML_algo\\Model\\modelforprediction.pkl','rb'))
 
-## Route for homepagehhhhhhh njdfhvjdsnvjsbvjsbsvfvhab
+## Route for homepagehhhhhhhgit 
 
 @app.route('/')
 def index():
